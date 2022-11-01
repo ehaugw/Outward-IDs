@@ -18,7 +18,9 @@ namespace InstanceIDs
         public const string BladeTag                    = "Blade";
         public const string WeaponTag                   = "Weapon";
         public const string ItemTag                     = "Item";
-        public const string TinyTrinketTag              = "TinyTrinket";
+        public const string HandsFreeTag                = "HandsFreeTag";
+        public const string LanternTag                  = "Lantern";
+        public const string MaulShoveTag                = "MaulShoveTag";
 
         public const string AfterUseManaTag             = "AfterUseManaTag";
 
@@ -314,6 +316,10 @@ namespace InstanceIDs
         public const int polishedPlateHelmID            = 2502504;
         public const int shootWandSkillID               = 2502505;
 
+        //CRUSADER EQUIPMENT
+        public const int purgingFlameTrinketID          = 2502506;
+        public const int capitalizerTrinketID           = 2502507;
+        public const int talismanOfRecoveryTrinketID    = 2502508;
 
         //INFUSIONS
 
