@@ -30,6 +30,7 @@ namespace InstanceIDs
         public const string slowNameID                  = "Slow Down";
         //VANILLA
         public const int kaziteArmorID                  = 3100110;
+        public const int runicArmorID                   = 3100120;
         public const int whitePriestRobesID             = 3000060;
         public const int whitePriestHoodID              = 3000063;
         public const int whitePriestBootsID             = 3000062;
@@ -45,6 +46,8 @@ namespace InstanceIDs
         public const int tsarSwordID                    = 2000160;
         public const int tsarStoneID                    = 6200010;
         public const int goldIngotID                    = 6300030;
+        public const int alphaTuanosaurTailID           = 6600190;
+        public const int obsidianShardID                = 6600200;
         public const int hackmaniteID                   = 6200130;
         public const int blacksmithsVintageHammerID     = 2020091;
         public const int goldlichMechanismID            = 6600210;
@@ -317,9 +320,14 @@ namespace InstanceIDs
         public const int shootWandSkillID               = 2502505;
 
         //CRUSADER EQUIPMENT
-        public const int purgingFlameTrinketID          = 2502506;
-        public const int capitalizerTrinketID           = 2502507;
-        public const int talismanOfRecoveryTrinketID    = 2502508;
+        public const int obsidianAmuletID               = 2502506;
+        public const int alphaTuanosaurTrinketID        = 2502507;
+        public const int talismanOfRecoveryID           = 2502508;
+        public const int alphaTuanosaurTrinketRecipeID  = 2502509;
+        public const int obsidianAmuletRecipeID         = 2502509;
+        public const int talismanOfRecoveryRecipeID     = 2502510;
+        public const int crusadersPlateArmorID          = 2502511;
+        public const int crusadersPlateArmorRecipeID    = 2502512;
 
         //INFUSIONS
 
