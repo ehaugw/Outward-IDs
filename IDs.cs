@@ -7,17 +7,29 @@ namespace InstanceIDs
     {
         public const int CrusaderRPCPhotonID                    = 950;
         public const int SynchronizedWorldObjectsRPCPhotonID    = 951;
+        public const int RelicKeeperRPCPhotonID                 = 952;
+
+        //Vanilla Tags
+        public const string statTagProtection           = "PhysicalProtection";
+        public const string statTagImpactResistance     = "ImpactResistance";
+        public const string statTagCorruptionResistance = "CorruptionResistance";
 
         public const string BastardTag                  = "Bastard";
+        public const string TrinketTag                  = "Trinket";
+        public const string RelicTag                    = "Relic";
+
         public const string FinesseTag                  = "Finesse";
         public const string HolyTag                     = "Holy";
+        public const string VirginTag                   = "Virgin";
         public const string ParryTag                    = "Parry";
         public const string BucklerTag                  = "Buckler";
         public const string InvisitibleItemTag          = "ItemIsInvisible";
         public const string WandTag                     = "Wand";
         public const string BladeTag                    = "Blade";
         public const string WeaponTag                   = "Weapon";
+        public const string ArmorTag                    = "Armor";
         public const string ItemTag                     = "Item";
+        public const string HelmetTag                   = "Helmet";
         public const string HandsFreeTag                = "HandsFreeTag";
         public const string LanternTag                  = "Lantern";
         public const string MaulShoveTag                = "MaulShoveTag";
@@ -28,7 +40,16 @@ namespace InstanceIDs
         public const string painNameID                  = "Pain";
         public const string rageNameID                  = "Rage";
         public const string slowNameID                  = "Slow Down";
+
+        public const string doomID                      = "Doom";
+        public const string hauntedID                   = "Haunted";
+        public const string chillID                     = "Chill";
+        public const string curseID                     = "Curse";
+        public const string scorchedID                  = "Scorched";
+
         //VANILLA
+        public const int plateArmorID                   = 3100003;
+        public const int virginHelmID                   = 3100261;
         public const int kaziteArmorID                  = 3100110;
         public const int runicArmorID                   = 3100120;
         public const int whitePriestRobesID             = 3000060;
@@ -69,7 +90,9 @@ namespace InstanceIDs
         public const int ironScrapsID                   = 6400140;
         public const int chargeIncendiaryID             = 6500120;
         public const int lexiconID                      = 5100500;
+        public const int lightMenderLexiconID           = 5100510;
         public const int oldLanternID                   = 5100010;
+        public const int lanternOfSouldID               = 5100080;
         public const int ceruleanSabreID                = 2000021;
         public const int steelSabreID                   = 2000020;
         public const int macheteID                      = 2000060;
@@ -114,7 +137,8 @@ namespace InstanceIDs
         public const int assassinsSwordID               = 2000130;
         public const int fangSwordID                    = 2000050;
         public const int savageSwordID                  = 2000051;
-
+        public const int lunaIncenseID                  = 6000230;
+        public const int sylphinaIncenseID              = 6000250;
 
         //The Soroborean Items
         public const int wolfAxeID                      = 2010190;
@@ -146,6 +170,8 @@ namespace InstanceIDs
         public const int bleedingEffectID               = 23;
 
         //Vanilla spells
+        public const int tormentID                      = 8201010;
+        public const int ruptureID                      = 8201011;
         public const int dezID                          = 8100210;
         public const int shimID                         = 8100220;
         public const int egothID                        = 8100230;
@@ -173,10 +199,12 @@ namespace InstanceIDs
         public const int shieldChargeID                 = 8100190;
         public const int leylineConnectionID            = 8205090;
         public const int sparkID                        = 8200040;
+        public const int summonedWindSigilID            = 8000050;
         //Vanilla spells - TTB
         public const int momentOfTruthID                = 8100520;
         //Vanilla passive skill
         public const int arbitraryPassiveSkillID        = steadyArmID;
+        public const int arbitraryTrinketID             = lexiconID;
         //Vanille recipes
         public const int meatJerkyRecipeRecipeID        = 5700018;
         public const int fireStoneRecipeRecipeID        = 5700076;
@@ -187,10 +215,18 @@ namespace InstanceIDs
         public const int arbitrarySurvivalRecipeID      = 5700024;
         //vanilla infusions
         public const int divineLightImbueID             = 219;
-        //public const int steelHeartImbue                = 269;
+        public const int infuseManaImbueID              = 223;
+        public const int infuseBloodImbueID             = 222;
         //Vanilla deployed items
         public const int deployedCampFireID             = 5000100;
         public const int deployedTentID                 = 5000011;
+        //Vanilla Enchants Scrolls
+        public const int warMementoScrollID             = 5800044;
+        //Vanilla Enchants
+        public const int warmasterEnchantID             = 56;
+        public const int elattsSanctityHelmID           = 49;
+        public const int elattsSanctityChestID          = 48;
+        public const int elattsSanctityBootsID          = 50;
 
         //MODDED ITEMS
 
@@ -225,19 +261,19 @@ namespace InstanceIDs
 		//Crusaders Item Pack Continued
         public const int crusadersRoundShieldID 	    = 2501020;
         public const int thickWhitePaintID 		        = 2501021;
-
         public const int thickWhitePaintRecipeID        = 2501022;
         public const int crusadersShieldRecipeID        = 2501023;
         public const int crusadersRoundShieldRecipeID   = 2501024;
         public const int crusadersArmorRecipeID         = 2501025;
-        //Holy Avenger Item PAck Continued
-        public const int blessedLongswordRecipeID       = 2501026;
-        public const int divineLongswordRecipeID        = 2501027;
-        public const int holyAvengerRecipeID            = 2501028;
-        public const int holyAvengerID                  = 2501029;
+        //Free item IDs
+        public const int FREE_ITEM_ID_1                 = 2501026;
+        public const int FREE_ITEM_ID_2                 = 2501027;
+        //Crusaders Equipment Continued
+        public const int puresteelLongswordRecipeID     = 2501028;
+        public const int puresteelLongswordID           = 2501029;
         //Runic Scrolls Continued
         public const int runicScrollRecipeID            = 2501030;
-        //CRUSADER Equipment
+        //Crusaders Equipment Equipment
         public const int holyWaterID                    = 2501031;
         public const int holyWaterRecipeID              = 2501032;
         //Crusaders Item Pack Continued
@@ -273,7 +309,7 @@ namespace InstanceIDs
 		//SIT MOD
 		public const int sitID			      		    = 2502011;
         //CRUSADER SPELLS (CONTINUED)
-        public const int meditationID                       = 2502012;
+        public const int meditationID                   = 2502012;
         public const int celestialSurgeID               = 2502013;
         public const int prayerOfHealingID              = 2502014;
         //JUGGERNAUT SPELLS
@@ -306,12 +342,10 @@ namespace InstanceIDs
         public const int stoicismSkillID                = 2502037;
         //MARTIAL ARTIST
         public const int kenseiOutsideTrackerID         = 2502038;
-
-
+        //CRUSADER SPELLS
+        public const int consecrationID                 = 2502039;
+        
         //IMMERSIVE WEAPONS AND ARMOR
-        public const int immersiveWeaponsAndArmorStartID= 2502500;
-        public const int immersiveWeaponsAndArmorStopID = 2502999;
-
         public const int ironBastardSwordID             = 2502500;
         public const int makeshiftBastardSwordID        = 2502501;
         public const int polishedPlateArmorID           = 2502502;
@@ -322,18 +356,32 @@ namespace InstanceIDs
         //CRUSADER EQUIPMENT
         public const int obsidianAmuletID               = 2502506;
         public const int alphaTuanosaurTrinketID        = 2502507;
-        public const int talismanOfRecoveryID           = 2502508;
+        public const int goldLichTalismanID             = 2502508;
         public const int alphaTuanosaurTrinketRecipeID  = 2502509;
         public const int obsidianAmuletRecipeID         = 2502509;
-        public const int talismanOfRecoveryRecipeID     = 2502510;
+        public const int goldLichTalismanRecipeID       = 2502510;
         public const int crusadersPlateArmorID          = 2502511;
         public const int crusadersPlateArmorRecipeID    = 2502512;
+        public const int woodooCharmID                  = 2502513;
+        public const int heavyPlateArmorID              = 2502514;
+
+        public const int doomsayerID                    = 2502515;
+        public const int dampenedArcaneUnisonID         = 2502516;
+        public const int lingeringID                    = 2502517;
+
+        //RELIC KEEPER SPELLS
+        public const int useRelicID                     = 2502518;
+        public const int channelRelicID                 = 2502519;
+
+        //CRUSADER SIGILS
+        public const int summonedConcecratedGroundID    = summonedWindSigilID; //2502513;
 
         //INFUSIONS
 
         //CRUSADER INFUSIONS
         public const int radiantLightImbueID            = 269;
-        public const int burstOfLightImbueID            = 270;
+        public const int burstOfLightImbueID            = 270; //zealous weapon
+        public const int blueChamberImbueID             = 271; //soul plague
 
 
         public const int NPCID_Klaus                    = 0;
