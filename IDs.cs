@@ -45,7 +45,7 @@ namespace InstanceIDs
         public const string hauntedID                   = "Haunted";
         public const string chillID                     = "Chill";
         public const string curseID                     = "Curse";
-        public const string scorchedID                  = "Scorched";
+        public const string scorchedID                  = "Burn";
 
         //VANILLA
         public const int plateArmorID                   = 3100003;
