@@ -166,6 +166,7 @@ namespace InstanceIDs
         public const string manaWardID                  = "Force Bubble";
         public const string runicProtectionAmplifiedID  = "Runic Protection Amplified";
         public const string runicProtectionID           = "Runic Protection";
+        public const string plagueNameID                = "Plague";
 
         public const int blessedEffectID                = 23;
         public const int blessedAmplifiedEffectID       = 73;
