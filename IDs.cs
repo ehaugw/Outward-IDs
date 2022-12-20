@@ -158,11 +158,11 @@ namespace InstanceIDs
         public const string rageNameID                  = "Rage";
         public const string slowNameID                  = "Slow Down";
 
-        public const string doomID                      = "Doom";
-        public const string hauntedID                   = "Haunted";
-        public const string chillID                     = "Chill";
-        public const string curseID                     = "Curse";
-        public const string scorchedID                  = "Burn";
+        public const string doomNameID                      = "Doom";
+        public const string hauntedNameID                   = "Haunted";
+        public const string chillNameID                     = "Chill";
+        public const string curseNameID                     = "Curse";
+        public const string scorchedNameID                  = "Burn";
         public const string manaWardID                  = "Force Bubble";
         public const string runicProtectionAmplifiedID  = "Runic Protection Amplified";
         public const string runicProtectionID           = "Runic Protection";
