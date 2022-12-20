@@ -158,11 +158,11 @@ namespace InstanceIDs
         public const string rageNameID                  = "Rage";
         public const string slowNameID                  = "Slow Down";
 
-        public const string doomNameID                      = "Doom";
-        public const string hauntedNameID                   = "Haunted";
-        public const string chillNameID                     = "Chill";
-        public const string curseNameID                     = "Curse";
-        public const string scorchedNameID                  = "Burn";
+        public const string doomNameID                  = "Doom";
+        public const string hauntedNameID               = "Haunted";
+        public const string chillNameID                 = "Chill";
+        public const string curseNameID                 = "Curse";
+        public const string scorchedNameID              = "Burn";
         public const string manaWardID                  = "Force Bubble";
         public const string runicProtectionAmplifiedID  = "Runic Protection Amplified";
         public const string runicProtectionID           = "Runic Protection";
@@ -176,6 +176,7 @@ namespace InstanceIDs
         //Vanilla spells
         public const int tormentID                      = 8201010;
         public const int ruptureID                      = 8201011;
+        public const int jinxID                         = 8201000;
         public const int dezID                          = 8100210;
         public const int shimID                         = 8100220;
         public const int egothID                        = 8100230;
