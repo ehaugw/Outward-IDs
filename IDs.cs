@@ -36,17 +36,6 @@ namespace InstanceIDs
 
         public const string AfterUseManaTag             = "AfterUseManaTag";
 
-        public const string confusionNameID             = "Confusion";
-        public const string painNameID                  = "Pain";
-        public const string rageNameID                  = "Rage";
-        public const string slowNameID                  = "Slow Down";
-
-        public const string doomID                      = "Doom";
-        public const string hauntedID                   = "Haunted";
-        public const string chillID                     = "Chill";
-        public const string curseID                     = "Curse";
-        public const string scorchedID                  = "Burn";
-
         //VANILLA
         public const int plateArmorID                   = 3100003;
         public const int virginHelmID                   = 3100261;
@@ -162,7 +151,22 @@ namespace InstanceIDs
         
         public const int rageTagUID                     = 225;
         public const int disciplineTagUID               = 226;
+        
         //Effects
+        public const string confusionNameID             = "Confusion";
+        public const string painNameID                  = "Pain";
+        public const string rageNameID                  = "Rage";
+        public const string slowNameID                  = "Slow Down";
+
+        public const string doomID                      = "Doom";
+        public const string hauntedID                   = "Haunted";
+        public const string chillID                     = "Chill";
+        public const string curseID                     = "Curse";
+        public const string scorchedID                  = "Burn";
+        public const string manaWardID                  = "Force Bubble";
+        public const string runicProtectionAmplifiedID  = "Runic Protection Amplified";
+        public const string runicProtectionID           = "Runic Protection";
+
         public const int blessedEffectID                = 23;
         public const int blessedAmplifiedEffectID       = 73;
         public const int disciplineEffectID             = 19;
@@ -372,6 +376,7 @@ namespace InstanceIDs
         //RELIC KEEPER SPELLS
         public const int useRelicID                     = 2502518;
         public const int channelRelicID                 = 2502519;
+        public const int unleashID                      = 2502520;
 
         //CRUSADER SIGILS
         public const int summonedConcecratedGroundID    = summonedWindSigilID; //2502513;
