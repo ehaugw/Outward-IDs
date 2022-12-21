@@ -156,6 +156,9 @@ namespace InstanceIDs
         public const string confusionNameID             = "Confusion";
         public const string painNameID                  = "Pain";
         public const string rageNameID                  = "Rage";
+        public const string rageAmplifiedNameID         = "Rage Amplified";
+        public const string disciplineNameID            = "Discipline";
+        public const string disciplineAmplifiedNameID   = "Discipline Amplified";
         public const string slowNameID                  = "Slow Down";
 
         public const string doomNameID                  = "Doom";
@@ -222,6 +225,7 @@ namespace InstanceIDs
         //vanilla infusions
         public const int divineLightImbueID             = 219;
         public const int infuseManaImbueID              = 223;
+        public const int iceVarnishImbueID              = 205;
         public const int infuseBloodImbueID             = 222;
         //Vanilla deployed items
         public const int deployedCampFireID             = 5000100;
