@@ -109,7 +109,9 @@ namespace InstanceIDs
         public const int blackPlateBootsID              = 3100095;
         public const int pathfinderClaymoreID           = 2100130;
         public const int sinnerClaymoreID               = 2100001;
+        public const int palladiumArmorID               = 3100060;
         public const int palladiumHelmetID              = 3100061;
+        public const int palladiumBootsID               = 3100062;
         public const int prayerClaymoreID               = 2100000;
         public const int cleanWaterID                   = 5600000;
         public const int blessedPotionID                = 4300100;
@@ -128,6 +130,8 @@ namespace InstanceIDs
         public const int savageSwordID                  = 2000051;
         public const int lunaIncenseID                  = 6000230;
         public const int sylphinaIncenseID              = 6000250;
+        public const int silverArmorID                  = 3100100;
+        public const int silverBootsID                  = 3100102;
 
         //The Soroborean Items
         public const int wolfAxeID                      = 2010190;
@@ -160,6 +164,8 @@ namespace InstanceIDs
         public const string disciplineNameID            = "Discipline";
         public const string disciplineAmplifiedNameID   = "Discipline Amplified";
         public const string slowNameID                  = "Slow Down";
+        public const string burstOfDivinityNameID       = "BurstOfDivinity";
+        public const string ancestralMemoryNameID       = "AncestralMemory";
 
         public const string doomNameID                  = "Doom";
         public const string hauntedNameID               = "Haunted";
@@ -176,6 +182,10 @@ namespace InstanceIDs
         public const int disciplineEffectID             = 19;
         public const int disciplineAmplifiedEffectID    = 69;
         public const int bleedingEffectID               = 23;
+
+        //Vanilla Quests
+        public const int questionsAndCorruptionID       = 7011101;
+        public const int mixedLegaciesID                = 7011201;
 
         //Vanilla spells
         public const int tormentID                      = 8201010;
@@ -276,9 +286,9 @@ namespace InstanceIDs
         public const int crusadersRoundShieldRecipeID   = 2501024;
         public const int crusadersArmorRecipeID         = 2501025;
         //Free item IDs
-        public const int FREE_ITEM_ID_1                 = 2501026;
-        public const int FREE_ITEM_ID_2                 = 2501027;
+        public const int FREE_ITEM_ID_1                 = 2501027;
         //Crusaders Equipment Continued
+        public const int corruptedLongswordID           = 2501026;
         public const int puresteelLongswordRecipeID     = 2501028;
         public const int puresteelLongswordID           = 2501029;
         //Runic Scrolls Continued
@@ -391,7 +401,7 @@ namespace InstanceIDs
 
         //CRUSADER INFUSIONS
         public const int radiantLightImbueID            = 269;
-        public const int burstOfLightImbueID            = 270; //zealous weapon
+        public const int holyMissionImbueID             = 270; //zealous weapon
         public const int blueChamberImbueID             = 271; //soul plague
 
 
@@ -403,5 +413,6 @@ namespace InstanceIDs
         public const int NPCID_Guard2ID                 = 15;
         public const int NPCID_Kensei                   = 16;
         public const int NPCID_Juggernaut               = 17;
+        public const int NPCID_Ignacio                  = 18;
     }
 }
