@@ -79,6 +79,7 @@ namespace InstanceIDs
         public const int ironScrapsID                   = 6400140;
         public const int chargeIncendiaryID             = 6500120;
         public const int lexiconID                      = 5100500;
+        public const int rondelDaggerID                 = 5110000;
         public const int lightMenderLexiconID           = 5100510;
         public const int oldLanternID                   = 5100010;
         public const int lanternOfSouldID               = 5100080;
@@ -223,7 +224,7 @@ namespace InstanceIDs
         public const int momentOfTruthID                = 8100520;
         //Vanilla passive skill
         public const int arbitraryPassiveSkillID        = steadyArmID;
-        public const int arbitraryTrinketID             = lexiconID;
+        public const int arbitraryTrinketID             = rondelDaggerID;
         //Vanille recipes
         public const int meatJerkyRecipeRecipeID        = 5700018;
         public const int fireStoneRecipeRecipeID        = 5700076;
@@ -394,6 +395,8 @@ namespace InstanceIDs
         public const int channelRelicID                 = 2502519;
         public const int unleashID                      = 2502520;
         public const int manaFlowID                     = 2502521;
+
+        public const int basicRelicID                   = 2502522;
 
         //CRUSADER SIGILS
         public const int summonedConcecratedGroundID    = summonedWindSigilID; //2502513;
