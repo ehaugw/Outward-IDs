@@ -393,6 +393,7 @@ namespace InstanceIDs
         public const int useRelicID                     = 2502518;
         public const int channelRelicID                 = 2502519;
         public const int unleashID                      = 2502520;
+        public const int manaFlowID                     = 2502521;
 
         //CRUSADER SIGILS
         public const int summonedConcecratedGroundID    = summonedWindSigilID; //2502513;
@@ -414,5 +415,7 @@ namespace InstanceIDs
         public const int NPCID_Kensei                   = 16;
         public const int NPCID_Juggernaut               = 17;
         public const int NPCID_Ignacio                  = 18;
+        public const int NPCID_IgnacioHint1             = 19;
+        public const int NPCID_KlausHint1               = 20;
     }
 }
