@@ -33,6 +33,7 @@ namespace InstanceIDs
         public const string HandsFreeTag                = "HandsFreeTag";
         public const string LanternTag                  = "Lantern";
         public const string MaulShoveTag                = "MaulShoveTag";
+        public const string LingeringEligibleTag        = "LingeringEligible";
 
         public const string AfterUseManaTag             = "AfterUseManaTag";
 
@@ -225,7 +226,7 @@ namespace InstanceIDs
         public const int momentOfTruthID                = 8100520;
         //Vanilla passive skill
         public const int arbitraryPassiveSkillID        = steadyArmID;
-        public const int arbitraryTrinketID             = rondelDaggerID;
+        public const int arbitraryTrinketID             = lexiconID;
         //Vanille recipes
         public const int meatJerkyRecipeRecipeID        = 5700018;
         public const int fireStoneRecipeRecipeID        = 5700076;
@@ -421,5 +422,6 @@ namespace InstanceIDs
         public const int NPCID_Ignacio                  = 18;
         public const int NPCID_IgnacioHint1             = 19;
         public const int NPCID_KlausHint1               = 20;
+        public const int NPCID_Harmalan                 = 21;
     }
 }
