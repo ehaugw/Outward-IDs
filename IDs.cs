@@ -61,6 +61,7 @@ namespace InstanceIDs
         public const int hackmaniteID                   = 6200130;
         public const int blacksmithsVintageHammerID     = 2020091;
         public const int goldlichMechanismID            = 6600210;
+        public const int goldLichSwordID                = 2000080;
         public const int palladiumScrapsID              = 6400070;
         public const int pearlbirdsCourageID            = 6600221;
         public const int elattsRelicID                  = 6600222;
