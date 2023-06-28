@@ -8,6 +8,7 @@ namespace InstanceIDs
         public const int CrusaderRPCPhotonID                    = 950;
         public const int SynchronizedWorldObjectsRPCPhotonID    = 951;
         public const int RelicKeeperRPCPhotonID                 = 952;
+        public const int SwampWitchRPCPhotonID                  = 953;
 
         //Vanilla Tags
         public const string statTagProtection           = "PhysicalProtection";
@@ -77,6 +78,7 @@ namespace InstanceIDs
         public const int wolfShieldID                   = 2300050;
         public const int arrowID                        = 5200001;
         public const int manaStoneID                    = 6400130;
+        public const int darkStoneID                    = 6500031;
         public const int linenClothID                   = 6500090;
         public const int ironScrapsID                   = 6400140;
         public const int chargeIncendiaryID             = 6500120;
@@ -238,6 +240,7 @@ namespace InstanceIDs
         //vanilla infusions
         public const int divineLightImbueID             = 219;
         public const int infuseManaImbueID              = 223;
+        public const int fireVarnishImbueID             = 203;//??
         public const int iceVarnishImbueID              = 205;
         public const int infuseBloodImbueID             = 222;
         //Vanilla deployed items
@@ -397,8 +400,10 @@ namespace InstanceIDs
         public const int channelRelicID                 = 2502519;
         public const int unleashID                      = 2502520;
         public const int manaFlowID                     = 2502521;
-
         public const int basicRelicID                   = 2502522;
+
+        //SWAMP WITCH
+        public const int infuseChaosImbueID             = 2502523;
 
         //CRUSADER SIGILS
         public const int summonedConcecratedGroundID    = summonedWindSigilID; //2502513;
@@ -409,6 +414,7 @@ namespace InstanceIDs
         public const int radiantLightImbueID            = 269;
         public const int holyMissionImbueID             = 270; //zealous weapon
         public const int blueChamberImbueID             = 271; //soul plague
+        public const int chaosImbueID                   = 272;
 
 
         public const int NPCID_Klaus                    = 0;
@@ -423,5 +429,6 @@ namespace InstanceIDs
         public const int NPCID_IgnacioHint1             = 19;
         public const int NPCID_KlausHint1               = 20;
         public const int NPCID_Harmalan                 = 21;
+        public const int NPCID_SwampScorcher            = 22;
     }
 }
