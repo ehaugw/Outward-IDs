@@ -18,6 +18,7 @@ namespace InstanceIDs
         public const string BastardTag                  = "Bastard";
         public const string TrinketTag                  = "Trinket";
         public const string RelicTag                    = "Relic";
+        public const string PointyTag                   = "Pointy";
 
         public const string FinesseTag                  = "Finesse";
         public const string HolyTag                     = "Holy";
@@ -87,6 +88,8 @@ namespace InstanceIDs
         public const int lightMenderLexiconID           = 5100510;
         public const int oldLanternID                   = 5100010;
         public const int lanternOfSouldID               = 5100080;
+        public const int virginKnucklesID               = 2160130;
+        public const int cannonPistolID                 = 5110110;
         public const int ceruleanSabreID                = 2000021;
         public const int steelSabreID                   = 2000020;
         public const int macheteID                      = 2000060;
@@ -191,6 +194,7 @@ namespace InstanceIDs
         //Vanilla Quests
         public const int questionsAndCorruptionID       = 7011101;
         public const int mixedLegaciesID                = 7011201;
+        public const int heroicPeacemakerID             = 7011304;
 
         //Vanilla spells
         public const int tormentID                      = 8201010;
@@ -292,9 +296,9 @@ namespace InstanceIDs
         public const int crusadersRoundShieldRecipeID   = 2501024;
         public const int crusadersArmorRecipeID         = 2501025;
         //Free item IDs
-        public const int FREE_ITEM_ID_1                 = 2501027;
         //Crusaders Equipment Continued
         public const int corruptedLongswordID           = 2501026;
+        public const int corruptedLongswordRecipeID     = 2501027;
         public const int puresteelLongswordRecipeID     = 2501028;
         public const int puresteelLongswordID           = 2501029;
         //Runic Scrolls Continued
