@@ -14,6 +14,8 @@ namespace InstanceIDs
         public const string statTagProtection           = "PhysicalProtection";
         public const string statTagImpactResistance     = "ImpactResistance";
         public const string statTagCorruptionResistance = "CorruptionResistance";
+        public const string weaponSkilllDamageModifier  = "359";
+        public const string allDamagesTag               = "96";
 
         public const string BastardTag                  = "Bastard";
         public const string TrinketTag                  = "Trinket";
@@ -35,6 +37,7 @@ namespace InstanceIDs
         public const string HandsFreeTag                = "HandsFreeTag";
         public const string LanternTag                  = "Lantern";
         public const string MaulShoveTag                = "MaulShoveTag";
+        public const string ArmorIgnoringTag            = "ArmorIgnoringTag";
         public const string LingeringEligibleTag        = "LingeringEligible";
 
         public const string AfterUseManaTag             = "AfterUseManaTag";
@@ -59,6 +62,7 @@ namespace InstanceIDs
         public const int tsarSwordID                    = 2000160;
         public const int tsarStoneID                    = 6200010;
         public const int goldIngotID                    = 6300030;
+        public const int silverCoinID                   = 9000010;
         public const int alphaTuanosaurTailID           = 6600190;
         public const int obsidianShardID                = 6600200;
         public const int hackmaniteID                   = 6200130;
@@ -374,7 +378,9 @@ namespace InstanceIDs
         public const int kenseiOutsideTrackerID         = 2502038;
         //CRUSADER SPELLS
         public const int consecrationID                 = 2502039;
-        
+        //JUGGERNAUT SPELLS
+        public const int cullID                         = 2502040;
+
         //IMMERSIVE WEAPONS AND ARMOR
         public const int ironBastardSwordID             = 2502500;
         public const int makeshiftBastardSwordID        = 2502501;
