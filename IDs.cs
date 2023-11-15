@@ -380,6 +380,8 @@ namespace InstanceIDs
         public const int consecrationID                 = 2502039;
         //JUGGERNAUT SPELLS
         public const int cullID                         = 2502040;
+        //MARTIAL ARTIST
+        public const int precisionStrikeID              = 2502041;
 
         //IMMERSIVE WEAPONS AND ARMOR
         public const int ironBastardSwordID             = 2502500;
