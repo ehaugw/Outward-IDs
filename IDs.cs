@@ -1,7 +1,4 @@
-﻿using System.Security.Permissions;
-using System.Security.Principal;
-
-namespace InstanceIDs
+﻿namespace InstanceIDs
 {
     public class IDs
     {
@@ -9,6 +6,7 @@ namespace InstanceIDs
         public const int SynchronizedWorldObjectsRPCPhotonID    = 951;
         public const int RelicKeeperRPCPhotonID                 = 952;
         public const int SwampWitchRPCPhotonID                  = 953;
+        public const int TinyHelperRPCPhotonID                  = 954;
 
         //Vanilla Tags
         public const string statTagProtection           = "PhysicalProtection";
@@ -251,6 +249,7 @@ namespace InstanceIDs
         public const int fireVarnishImbueID             = 203;//??
         public const int iceVarnishImbueID              = 205;
         public const int infuseBloodImbueID             = 222;
+        public const int boltVarnishImbueID             = 207;
         //Vanilla deployed items
         public const int deployedCampFireID             = 5000100;
         public const int deployedTentID                 = 5000011;
@@ -382,6 +381,9 @@ namespace InstanceIDs
         public const int cullID                         = 2502040;
         //MARTIAL ARTIST
         public const int precisionStrikeID              = 2502041;
+        public const int honeBladeID                    = 2502042;
+        public const int carefulMaintenanceID           = 2502043;
+        public const int throwSandID                    = 2502044;
 
         //IMMERSIVE WEAPONS AND ARMOR
         public const int ironBastardSwordID             = 2502500;
@@ -428,6 +430,8 @@ namespace InstanceIDs
         public const int blueChamberImbueID             = 271; //soul plague
         public const int chaosImbueID                   = 272;
 
+        //MARTIAL ARTIST INFUSIONS
+        public const int honedBladeImbueID              = 122312273;
 
         public const int NPCID_Klaus                    = 0;
         public const int NPCID_Sidekick1                = 1;
