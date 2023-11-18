@@ -142,6 +142,7 @@
         public const int sylphinaIncenseID              = 6000250;
         public const int silverArmorID                  = 3100100;
         public const int silverBootsID                  = 3100102;
+        public const int tatteredAttireID               = 3000130;
 
         //The Soroborean Items
         public const int wolfAxeID                      = 2010190;
@@ -250,6 +251,7 @@
         public const int iceVarnishImbueID              = 205;
         public const int infuseBloodImbueID             = 222;
         public const int boltVarnishImbueID             = 207;
+        public const int windImbueID                    = 209;
         //Vanilla deployed items
         public const int deployedCampFireID             = 5000100;
         public const int deployedTentID                 = 5000011;
