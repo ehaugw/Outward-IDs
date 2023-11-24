@@ -326,6 +326,9 @@
         //CRUSADER ITEM PACK CONTINUED
         public const int zealotsArmorID                 = 2501042;
         public const int zealotsBootsID                 = 2501043;
+        public const int faraamLongswordID              = 2501044;
+        public const int faraamHelmetID                 = 2501045;
+
 
         //SKILLS
 
