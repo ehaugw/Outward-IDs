@@ -207,6 +207,7 @@
         public const int bleedingEffectID               = 23;
 
         //Vanilla Quests
+        public const int arbitraryQuestID               = 7011620;
         public const int questionsAndCorruptionID       = 7011101;
         public const int mixedLegaciesID                = 7011201;
         public const int heroicPeacemakerID             = 7011304;
