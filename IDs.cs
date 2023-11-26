@@ -19,7 +19,7 @@
         public const string TrinketTag                  = "Trinket";
         public const string RelicTag                    = "Relic";
         public const string PointyTag                   = "Pointy";
-
+        public const string ForagerTag                  = "Forager";
         public const string FinesseTag                  = "Finesse";
         public const string HolyTag                     = "Holy";
         public const string VirginTag                   = "Virgin";
@@ -93,6 +93,18 @@
         public const int virginKnucklesID               = 2160130;
         public const int cannonPistolID                 = 5110110;
         public const int ceruleanSabreID                = 2000021;
+        public const int gaberryID                      = 4000010;
+        public const int krimpNutID                     = 4000280;
+        public const int cactusFruidID                  = 4000200;
+        public const int marshmelonID                   = 4000190;
+        public const int turmmipID                      = 4000030;
+        public const int dreamersRootID                 = 4000360;
+        public const int crawlberryID                   = 4000290;
+        public const int purpkinID                      = 4000300;
+        public const int maizeID                        = 4000410;
+        public const int rainbowPeachID                 = 4000390;
+        public const int ablerootID                     = 4000440;
+        public const int goldenCrescentID               = 4000400;
         public const int steelSabreID                   = 2000020;
         public const int macheteID                      = 2000060;
         public const int goldenMacheteID                = 2000061;
@@ -385,10 +397,11 @@
         //JUGGERNAUT SPELLS
         public const int cullID                         = 2502040;
         //MARTIAL ARTIST
-        public const int precisionStrikeID              = 2502041;
-        public const int honeBladeID                    = 2502042;
-        public const int carefulMaintenanceID           = 2502043;
-        public const int throwSandID                    = 2502044;
+        public const int precisionStrikeSkillID         = 2502041;
+        public const int honeBladeSkillID               = 2502042;
+        public const int carefulMaintenanceSkillID      = 2502043;
+        public const int throwSandSkillID               = 2502044;
+        public const int foragerSkillID                 = 2502045;
 
         //IMMERSIVE WEAPONS AND ARMOR
         public const int ironBastardSwordID             = 2502500;
