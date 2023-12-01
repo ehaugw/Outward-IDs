@@ -341,6 +341,8 @@
         public const int zealotsBootsID                 = 2501043;
         public const int faraamLongswordID              = 2501044;
         public const int faraamHelmetID                 = 2501045;
+        public const int rangersHoodID                  = 2501046;
+        public const int rangersHoodRecipeID            = 2501047;
 
 
         //SKILLS
