@@ -42,8 +42,6 @@
 
         //VANILLA
         public const int plateArmorID                   = 3100003;
-        public const int virginHelmID                   = 3100261;
-        public const int kaziteArmorID                  = 3100110;
         public const int runicArmorID                   = 3100120;
         public const int whitePriestRobesID             = 3000060;
         public const int whitePriestHoodID              = 3000063;
@@ -57,6 +55,7 @@
         public const int roundShieldID                  = 2300000;
         public const int ironSwordID                    = 2000010;
         public const int ironSpearID                    = 2130110;
+        public const int ashFilterMaskID                = 3000221;
         public const int tsarSwordID                    = 2000160;
         public const int tsarStoneID                    = 6200010;
         public const int goldIngotID                    = 6300030;
@@ -100,6 +99,7 @@
         public const int turmmipID                      = 4000030;
         public const int dreamersRootID                 = 4000360;
         public const int crawlberryID                   = 4000290;
+        public const int rawMeatID                      = 4000050;
         public const int purpkinID                      = 4000300;
         public const int maizeID                        = 4000410;
         public const int rainbowPeachID                 = 4000390;
@@ -159,8 +159,12 @@
         //The Soroborean Items
         public const int wolfAxeID                      = 2010190;
         public const int shadowKaziteLightArmorID       = 3100243;
+        public const int masterKaziteArmorID            = 3100190;
         public const int shadowKaziteLightBootsID       = 3100245;
         public const int kaziteBladeID                  = 2000210;
+        public const int virginHelmID                   = 3100261;
+        public const int kaziteArmorID                  = 3100110;
+        public const int wolfMedicArmorID               = 3100220;
 
         //The Three Brothers Items
         public const int krypteiaArmorID                = 3100470;
@@ -193,6 +197,8 @@
         public const string doomNameID                  = "Doom";
         public const string hauntedNameID               = "Haunted";
         public const string chillNameID                 = "Chill";
+        public const string bleedNameID                 = "Bleeding";
+        public const string drawbackNameID              = "Drawback";
         public const string curseNameID                 = "Curse";
         public const string scorchedNameID              = "Burn";
         public const string manaWardID                  = "Force Bubble";
@@ -271,6 +277,7 @@
         //Vanilla Enchants Scrolls
         public const int warMementoScrollID             = 5800044;
         //Vanilla Enchants
+        public const int unsuspectedStrengthID          = 1;
         public const int warmasterEnchantID             = 56;
         public const int elattsSanctityHelmID           = 49;
         public const int elattsSanctityChestID          = 48;
@@ -343,6 +350,10 @@
         public const int faraamHelmetID                 = 2501045;
         public const int rangersHoodID                  = 2501046;
         public const int rangersHoodRecipeID            = 2501047;
+        public const int wolfRangerArmorID              = 2501048;
+        public const int wolfRangerArmorRecipeID        = 2501049;
+        public const int rangersBootsID                 = 2501050;
+        public const int rangersBootsRecipeID           = 2501051;
 
 
         //SKILLS
@@ -394,17 +405,23 @@
         //JUGGERNAUT SPELLS
         public const int stoicismSkillID                = 2502037;
         //MARTIAL ARTIST
-        public const int kenseiOutsideTrackerID         = 2502038;
+        public const int whiteFangOutsideTrackerID      = 2502038;
+        
         //CRUSADER SPELLS
         public const int consecrationID                 = 2502039;
+        
         //JUGGERNAUT SPELLS
         public const int cullID                         = 2502040;
-        //MARTIAL ARTIST
+        
+        //VAGABOND
         public const int precisionStrikeSkillID         = 2502041;
         public const int honeBladeSkillID               = 2502042;
         public const int carefulMaintenanceSkillID      = 2502043;
         public const int throwSandSkillID               = 2502044;
         public const int foragerSkillID                 = 2502045;
+        public const int tameBeastID                    = 2502046;
+        public const int commandBeastSkillID            = 2502047;
+        public const int swiftStrikeID                  = 2502048;
 
         //IMMERSIVE WEAPONS AND ARMOR
         public const int ironBastardSwordID             = 2502500;
@@ -440,8 +457,11 @@
         //SWAMP WITCH
         public const int infuseChaosImbueID             = 2502523;
 
+        //IRON COIN
+        public const int ironCoinID                     = 2502524;
+
         //CRUSADER SIGILS
-        public const int summonedConcecratedGroundID    = summonedWindSigilID; //2502513;
+        public const int summonedConcecratedGroundID    = summonedWindSigilID;
 
         //INFUSIONS
 
@@ -467,5 +487,6 @@
         public const int NPCID_KlausHint1               = 20;
         public const int NPCID_Harmalan                 = 21;
         public const int NPCID_SwampScorcher            = 22;
+        public const int NPCID_WhiteFang                = 23;
     }
 }
