@@ -100,6 +100,7 @@
         public const int dreamersRootID                 = 4000360;
         public const int crawlberryID                   = 4000290;
         public const int rawMeatID                      = 4000050;
+        public const int rawAlphaMeatID                 = 4000060;
         public const int purpkinID                      = 4000300;
         public const int maizeID                        = 4000410;
         public const int rainbowPeachID                 = 4000390;
@@ -187,6 +188,9 @@
         public const string confusionNameID             = "Confusion";
         public const string painNameID                  = "Pain";
         public const string rageNameID                  = "Rage";
+        public const string unerringReadNameID          = "Unerring Read";
+        public const string healthRecovery2NameID       = "Health Recovery 2";
+        public const string healthRecovery3NameID       = "Health Recovery 3";
         public const string rageAmplifiedNameID         = "Rage Amplified";
         public const string disciplineNameID            = "Discipline";
         public const string disciplineAmplifiedNameID   = "Discipline Amplified";
@@ -419,9 +423,10 @@
         public const int carefulMaintenanceSkillID      = 2502043;
         public const int throwSandSkillID               = 2502044;
         public const int foragerSkillID                 = 2502045;
-        public const int tameBeastID                    = 2502046;
+        public const int tameBeastSkillID               = 2502046;
         public const int commandBeastSkillID            = 2502047;
         public const int swiftStrikeID                  = 2502048;
+        public const int animalCompanionSkillID         = 2502049;
 
         //IMMERSIVE WEAPONS AND ARMOR
         public const int ironBastardSwordID             = 2502500;
