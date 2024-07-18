@@ -48,6 +48,7 @@
         public const int whitePriestBootsID             = 3000062;
         public const int masterTraderBootsID            = 3000232;
         public const int desertBootsID                  = 3000205;
+        public const int desertTunicID                  = 3000200;
         public const int crimsonShieldID                = 2300130;
         public const int thickOilID                     = 6600070;
         public const int saltID                         = 6000070;
