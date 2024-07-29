@@ -84,6 +84,7 @@
         public const int darkStoneID                    = 6500031;
         public const int linenClothID                   = 6500090;
         public const int ironScrapsID                   = 6400140;
+        public const int hideID                         = 6600020;
         public const int chargeIncendiaryID             = 6500120;
         public const int lexiconID                      = 5100500;
         public const int rondelDaggerID                 = 5110000;
@@ -359,6 +360,8 @@
         public const int wolfRangerArmorRecipeID        = 2501049;
         public const int rangersBootsID                 = 2501050;
         public const int rangersBootsRecipeID           = 2501051;
+        public const int weaponRepairKitID              = 2501052;
+        public const int weaponRepairKitRecipeID        = 2501053;
 
 
         //SKILLS
