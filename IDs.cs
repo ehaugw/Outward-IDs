@@ -204,6 +204,7 @@
         public const string hauntedNameID               = "Haunted";
         public const string chillNameID                 = "Chill";
         public const string bleedNameID                 = "Bleeding";
+        public const string extremeBleedNameID          = "Bleeding +";
         public const string drawbackNameID              = "Drawback";
         public const string curseNameID                 = "Curse";
         public const string scorchedNameID              = "Burn";
