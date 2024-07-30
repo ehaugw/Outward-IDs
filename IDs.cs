@@ -363,7 +363,8 @@
         public const int rangersBootsRecipeID           = 2501051;
         public const int weaponRepairKitID              = 2501052;
         public const int weaponRepairKitRecipeID        = 2501053;
-
+        public const int runeOfProtectionID             = 2501054;
+        public const int runeOfProtectionRecipeID       = 2501055;
 
         //SKILLS
 
