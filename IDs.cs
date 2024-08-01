@@ -47,6 +47,8 @@
         public const int whitePriestHoodID              = 3000063;
         public const int whitePriestBootsID             = 3000062;
         public const int masterTraderBootsID            = 3000232;
+        public const int masterTraderGarbID             = 3000230;
+        public const int writOfTribalFavorID            = 5600050;
         public const int desertBootsID                  = 3000205;
         public const int desertTunicID                  = 3000200;
         public const int crimsonShieldID                = 2300130;
@@ -57,6 +59,7 @@
         public const int ironSwordID                    = 2000010;
         public const int ironSpearID                    = 2130110;
         public const int ashFilterMaskID                = 3000221;
+        public const int pathfinderMaskID               = 3000225;
         public const int tsarSwordID                    = 2000160;
         public const int tsarStoneID                    = 6200010;
         public const int goldIngotID                    = 6300030;
@@ -174,6 +177,7 @@
         public const int krypteiaBootsID                = 3100472;
         public const int krypteiaHoodID                 = 3100471;
         public const int obsidianSwordID                = 2000260;
+        public const int nobleMaskID                    = 3100431;
 
         //Vanilla tags
         public const int lexiconTagID                   = 161;
@@ -286,6 +290,7 @@
         //Vanilla Enchants
         public const int unsuspectedStrengthID          = 1;
         public const int warmasterEnchantID             = 56;
+        public const int weightlessEnchantID            = 91;
         public const int elattsSanctityHelmID           = 49;
         public const int elattsSanctityChestID          = 48;
         public const int elattsSanctityBootsID          = 50;
@@ -499,5 +504,6 @@
         public const int NPCID_Harmalan                 = 21;
         public const int NPCID_SwampScorcher            = 22;
         public const int NPCID_WhiteFang                = 23;
+        public const int NPCID_RangerHermit             = 24;
     }
 }
