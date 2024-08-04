@@ -55,6 +55,7 @@
         public const int thickOilID                     = 6600070;
         public const int saltID                         = 6000070;
         public const int aquamarineID                   = 6200070;
+        public const int emeraldID                      = 6200090;
         public const int roundShieldID                  = 2300000;
         public const int ironSwordID                    = 2000010;
         public const int ironSpearID                    = 2130110;
@@ -366,11 +367,13 @@
         public const int wolfRangerArmorRecipeID        = 2501049;
         public const int rangersBootsID                 = 2501050;
         public const int rangersBootsRecipeID           = 2501051;
+        //WEAPON REPAIR KIT
         public const int weaponRepairKitID              = 2501052;
         public const int weaponRepairKitRecipeID        = 2501053;
+        //RUNE OF PROTECTION
         public const int runeOfProtectionID             = 2501054;
         public const int runeOfProtectionRecipeID       = 2501055;
-
+        
         //SKILLS
 
         //CRUSADER SPELLS
