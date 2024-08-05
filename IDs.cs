@@ -16,12 +16,15 @@
         public const string allDamagesTag               = "96";
 
         public const string BastardTag                  = "Bastard";
+        public const string WeaponProficiency1Tag       = "WeaponProficiencyTag1";
+        public const string WeaponProficiency2Tag       = "WeaponProficiencyTag2";
         public const string TrinketTag                  = "Trinket";
         public const string RelicTag                    = "Relic";
         public const string PointyTag                   = "Pointy";
         public const string ForagerTag                  = "Forager";
         public const string FinesseTag                  = "Finesse";
         public const string HolyTag                     = "Holy";
+        public const string ExpertiseCompatibleTag      = "ExpertiseCompatible";
         public const string VirginTag                   = "Virgin";
         public const string ParryTag                    = "Parry";
         public const string BucklerTag                  = "Buckler";
@@ -158,6 +161,7 @@
         public const int fangSwordID                    = 2000050;
         public const int savageSwordID                  = 2000051;
         public const int lunaIncenseID                  = 6000230;
+        public const int apolloIncenseID                = 6000180;
         public const int sylphinaIncenseID              = 6000250;
         public const int silverArmorID                  = 3100100;
         public const int silverBootsID                  = 3100102;
@@ -373,6 +377,10 @@
         //RUNE OF PROTECTION
         public const int runeOfProtectionID             = 2501054;
         public const int runeOfProtectionRecipeID       = 2501055;
+        //CRUSADER ITEM PACK
+        public const int expertiseEnchantID             = 2501056;
+
+
         
         //SKILLS
 
