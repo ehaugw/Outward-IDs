@@ -170,7 +170,10 @@
         //The Soroborean Items
         public const int wolfAxeID                      = 2010190;
         public const int shadowKaziteLightArmorID       = 3100243;
+        public const int shadowKaziteLightShirtID       = 3100247;
         public const int masterKaziteArmorID            = 3100190;
+        public const int kaziteLightArmorID             = 3100240;
+        public const int kaziteLightShirtID             = 3100246;
         public const int shadowKaziteLightBootsID       = 3100245;
         public const int kaziteBladeID                  = 2000210;
         public const int virginHelmID                   = 3100261;
