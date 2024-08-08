@@ -99,6 +99,7 @@
         public const int oldLanternID                   = 5100010;
         public const int lanternOfSouldID               = 5100080;
         public const int virginKnucklesID               = 2160130;
+        public const int virginSwordID                  = 2000200;
         public const int cannonPistolID                 = 5110110;
         public const int ceruleanSabreID                = 2000021;
         public const int gaberryID                      = 4000010;
@@ -298,6 +299,7 @@
         //Vanilla Enchants
         public const int unsuspectedStrengthID          = 1;
         public const int warmasterEnchantID             = 56;
+        public const int cocoonEnchantID                = 65;
         public const int weightlessEnchantID            = 91;
         public const int elattsSanctityHelmID           = 49;
         public const int elattsSanctityChestID          = 48;
