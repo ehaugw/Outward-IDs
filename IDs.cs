@@ -24,7 +24,8 @@
         public const string ForagerTag                  = "Forager";
         public const string FinesseTag                  = "Finesse";
         public const string HolyTag                     = "Holy";
-        public const string ExpertiseCompatibleTag      = "ExpertiseCompatible";
+        public const string ExpertiseCompatibleTag      = "ExpertiseCompatibleTag";
+        public const string FootworkCompatibleTag       = "FootworkCompatibleTag";
         public const string VirginTag                   = "Virgin";
         public const string ParryTag                    = "Parry";
         public const string BucklerTag                  = "Buckler";
@@ -33,6 +34,7 @@
         public const string BladeTag                    = "Blade";
         public const string WeaponTag                   = "Weapon";
         public const string ArmorTag                    = "Armor";
+        public const string EquipmentTag                = "Equipment";
         public const string ItemTag                     = "Item";
         public const string HelmetTag                   = "Helmet";
         public const string HandsFreeTag                = "HandsFreeTag";
@@ -40,7 +42,7 @@
         public const string MaulShoveTag                = "MaulShoveTag";
         public const string ArmorIgnoringTag            = "ArmorIgnoringTag";
         public const string LingeringEligibleTag        = "LingeringEligible";
-
+        public const string SpiritOfTheWildEligibleTag  = "SpiritOfTheWildEligibleTag";
         public const string AfterUseManaTag             = "AfterUseManaTag";
 
         //VANILLA
@@ -384,6 +386,8 @@
         public const int runeOfProtectionRecipeID       = 2501055;
         //CRUSADER ITEM PACK
         public const int expertiseEnchantID             = 2501056;
+        public const int footworkEnchantID              = 2501057;
+        public const int spiritOfTheWildEnchantID       = 2501058;
 
 
         
