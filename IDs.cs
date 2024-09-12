@@ -25,6 +25,7 @@
         public const string FinesseTag                  = "Finesse";
         public const string HolyTag                     = "Holy";
         public const string ExpertiseCompatibleTag      = "ExpertiseCompatibleTag";
+        public const string SoulWithinCompatibleTag     = "SoulWithinCompatibleTag";
         public const string FootworkCompatibleTag       = "FootworkCompatibleTag";
         public const string VirginTag                   = "Virgin";
         public const string ParryTag                    = "Parry";
@@ -389,9 +390,12 @@
         public const int expertiseEnchantID             = 2501056;
         public const int footworkEnchantID              = 2501057;
         public const int spiritOfTheWildEnchantID       = 2501058;
+        public const int goldRingID                     = 2501059;
+        public const int goldRingRecipeID               = 2501060;
+        public const int soulWithinEnchantID            = 2501061;
+        public const int soulIncenseID                  = 2501062;
+        public const int soulIncenseRecipeID            = 2501063;
 
-
-        
         //SKILLS
 
         //CRUSADER SPELLS
