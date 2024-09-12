@@ -165,6 +165,7 @@
         public const int savageSwordID                  = 2000051;
         public const int lunaIncenseID                  = 6000230;
         public const int apolloIncenseID                = 6000180;
+        public const int monarchIncenseID               = 6000200;
         public const int sylphinaIncenseID              = 6000250;
         public const int silverArmorID                  = 3100100;
         public const int silverBootsID                  = 3100102;
