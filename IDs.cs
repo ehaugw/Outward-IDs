@@ -303,6 +303,8 @@
         //Vanilla Enchants
         public const int unsuspectedStrengthID          = 1;
         public const int warmasterEnchantID             = 56;
+        public const int aegis2EnchantID                = 35;
+        public const int aegis1EnchantID                = 36;
         public const int cocoonEnchantID                = 65;
         public const int weightlessEnchantID            = 91;
         public const int elattsSanctityHelmID           = 49;
