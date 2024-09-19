@@ -25,6 +25,7 @@
         public const string FinesseTag                  = "Finesse";
         public const string HolyTag                     = "Holy";
         public const string ExpertiseCompatibleTag      = "ExpertiseCompatibleTag";
+        public const string FlameOfAnorCompatibleTag    = "FlameOfAnorCompatibleTag";
         public const string SoulWithinCompatibleTag     = "SoulWithinCompatibleTag";
         public const string FootworkCompatibleTag       = "FootworkCompatibleTag";
         public const string VirginTag                   = "Virgin";
@@ -34,9 +35,11 @@
         public const string WandTag                     = "Wand";
         public const string BladeTag                    = "Blade";
         public const string WeaponTag                   = "Weapon";
+        public const string RingTag                     = "Ring";
         public const string ArmorTag                    = "Armor";
         public const string EquipmentTag                = "Equipment";
         public const string ItemTag                     = "Item";
+        public const string StaffOffHandTag             = "StaffOffHand";
         public const string HelmetTag                   = "Helmet";
         public const string HandsFreeTag                = "HandsFreeTag";
         public const string LanternTag                  = "Lantern";
@@ -397,7 +400,11 @@
         public const int soulWithinEnchantID            = 2501061;
         public const int soulIncenseID                  = 2501062;
         public const int soulIncenseRecipeID            = 2501063;
-
+        public const int charredHoodID                  = 2501064;
+        public const int charredHoodRecipeID            = 2501065;
+        public const int aegisRingEnchantID             = 2501066;
+        public const int gnarledStaffID                 = 2501067;
+        public const int flameOfAnorEnchantID           = 2501068;
         //SKILLS
 
         //CRUSADER SPELLS
