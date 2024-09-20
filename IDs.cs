@@ -174,6 +174,8 @@
         public const int silverArmorID                  = 3100100;
         public const int silverBootsID                  = 3100102;
         public const int tatteredAttireID               = 3000130;
+        public const int whiteWideHatID                 = 3000303;
+        public const int whiteArcaneRobeID              = 3000340;
 
         //The Soroborean Items
         public const int wolfAxeID                      = 2010190;
