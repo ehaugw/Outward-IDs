@@ -511,6 +511,13 @@
         //IRON COIN
         public const int ironCoinID                     = 2502524;
 
+        //RELIC KEEPER SPELLS
+        public const int useRelic2ID                    = 2502525;
+        public const int relicLoreID                    = 2502526;
+        public const int mythicLoreID                   = 2502527;
+        public const int overchannelID                  = 2502528;
+        public const int arcaneInfluenceID              = 2502529;
+
         //CRUSADER SIGILS
         public const int summonedConcecratedGroundID    = summonedWindSigilID;
 
