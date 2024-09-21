@@ -180,6 +180,8 @@
         public const int whiteWideHatID                 = 3000303;
         public const int whiteArcaneRobeID              = 3000340;
 
+        public const int fireSigilPlacedOnGroundID      = 8000010;
+
         //The Soroborean Items
         public const int wolfAxeID                      = 2010190;
         public const int shadowKaziteLightArmorID       = 3100243;
