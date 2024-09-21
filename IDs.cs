@@ -161,7 +161,10 @@
         public const int beardID                        = 3200020;
         public const int purifyingQuartzID              = 6000170;
         public const int whitePriestMitreID             = 3000061;
+        public const int mushroomShieldID               = 2300150;
         public const int redClansageRobeID              = 3000350;
+        public const int redLadysDaggerID               = 5110002;
+        public const int ornateBoneShieldID             = 2300180;
         public const int brutalAxeID                    = 2010030;
         public const int tatteredHood1                  = 3000133;
         public const int assassinsSwordID               = 2000130;
