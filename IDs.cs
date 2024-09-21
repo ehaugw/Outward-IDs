@@ -181,6 +181,7 @@
         public const int whiteArcaneRobeID              = 3000340;
 
         public const int fireSigilPlacedOnGroundID      = 8000010;
+        public const int soulPlacedOnGroundID           = 8000000;
 
         //The Soroborean Items
         public const int wolfAxeID                      = 2010190;
