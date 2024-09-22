@@ -536,6 +536,7 @@
         public const int holyMissionImbueID             = 270; //zealous weapon
         public const int blueChamberImbueID             = 271; //soul plague
         public const int chaosImbueID                   = 272;
+        public const int divineFlameImbueID             = 273;
 
         //MARTIAL ARTIST INFUSIONS
         public const int honedBladeImbueID              = 122312273;
