@@ -417,6 +417,7 @@
         public const int aegisRingEnchantID             = 2501066;
         public const int gnarledStaffID                 = 2501067;
         public const int flameOfAnorEnchantID           = 2501068;
+        public const int oldDesertTunicID               = 2501069;
         //SKILLS
 
         //CRUSADER SPELLS
