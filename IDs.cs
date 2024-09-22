@@ -2,6 +2,9 @@
 {
     public class IDs
     {
+        public const string EFFECTS_CONTAINER = "Effects";
+        public const string EFFECTS_CONTAINER_ACTIVATION = "ActivationEffects";
+
         public const int CrusaderRPCPhotonID                    = 950;
         public const int SynchronizedWorldObjectsRPCPhotonID    = 951;
         public const int RelicKeeperRPCPhotonID                 = 952;
