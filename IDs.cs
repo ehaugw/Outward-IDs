@@ -538,6 +538,8 @@
         public const int woodooCharmRecipeID            = 2502530;
         public const int basicRelicRecipeID             = 2502531;
         public const int relicFundamentalsID            = 2502532;
+        public const int gildedRelicID                  = 2502533;
+        public const int gildedRelicRecipeID            = 2502534;
 
         //CRUSADER SIGILS
         public const int summonedConcecratedGroundID    = summonedWindSigilID;
