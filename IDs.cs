@@ -15,6 +15,7 @@
         public const string statTagProtection           = "PhysicalProtection";
         public const string statTagImpactResistance     = "ImpactResistance";
         public const string statTagCorruptionResistance = "CorruptionResistance";
+        public const string statTagStatusEffectResistance      = "StatusEffectBuildUpResistance";
         public const string weaponSkilllDamageModifier  = "359";
         public const string allDamagesTag               = "96";
 
@@ -76,6 +77,7 @@
         public const int tsarSwordID                    = 2000160;
         public const int tsarStoneID                    = 6200010;
         public const int goldIngotID                    = 6300030;
+        public const int theWillOWispID                 = 2300600;
         public const int silverCoinID                   = 9000010;
         public const int alphaTuanosaurTailID           = 6600190;
         public const int obsidianShardID                = 6600200;
@@ -239,6 +241,7 @@
         public const string drawbackNameID              = "Drawback";
         public const string curseNameID                 = "Curse";
         public const string scorchedNameID              = "Burn";
+        public const string ambraineWithdrawal          = "Ambraine Withdrawal";
         public const string manaWardID                  = "Force Bubble";
         public const string runicProtectionAmplifiedID  = "Runic Protection Amplified";
         public const string runicProtectionID           = "Runic Protection";
