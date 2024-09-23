@@ -103,6 +103,7 @@
         public const int manaStoneID                    = 6400130;
         public const int darkStoneID                    = 6500031;
         public const int linenClothID                   = 6500090;
+        public const int petrifiedWoodID                = 6400080;
         public const int ironScrapsID                   = 6400140;
         public const int hideID                         = 6600020;
         public const int chargeIncendiaryID             = 6500120;
@@ -535,6 +536,7 @@
         public const int overchannelID                  = 2502528;
         public const int arcaneInfluenceID              = 2502529;
         public const int woodooCharmRecipeID            = 2502530;
+        public const int basicRelicRecipeID          = 2502531;
 
         //CRUSADER SIGILS
         public const int summonedConcecratedGroundID    = summonedWindSigilID;
