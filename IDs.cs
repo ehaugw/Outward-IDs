@@ -537,6 +537,7 @@
         public const int arcaneInfluenceID              = 2502529;
         public const int woodooCharmRecipeID            = 2502530;
         public const int basicRelicRecipeID             = 2502531;
+        public const int relicFundamentalsID            = 2502532;
 
         //CRUSADER SIGILS
         public const int summonedConcecratedGroundID    = summonedWindSigilID;
