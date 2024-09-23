@@ -86,6 +86,8 @@
         public const int goldlichMechanismID            = 6600210;
         public const int goldLichSwordID                = 2000080;
         public const int palladiumScrapsID              = 6400070;
+        public const int woodID                         = 6100010;
+        public const int occultRemainsID                = 6600110;
         public const int pearlbirdsCourageID            = 6600221;
         public const int elattsRelicID                  = 6600222;
         public const int scourgesTearsID                = 6600223;
@@ -532,6 +534,7 @@
         public const int mythicLoreID                   = 2502527;
         public const int overchannelID                  = 2502528;
         public const int arcaneInfluenceID              = 2502529;
+        public const int woodooCharmRecipeID            = 2502530;
 
         //CRUSADER SIGILS
         public const int summonedConcecratedGroundID    = summonedWindSigilID;
