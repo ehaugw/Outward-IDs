@@ -170,6 +170,7 @@
         public const int purifyingQuartzID              = 6000170;
         public const int whitePriestMitreID             = 3000061;
         public const int mushroomShieldID               = 2300150;
+        public const int sporeShieldID                  = 2300220;
         public const int redClansageRobeID              = 3000350;
         public const int redLadysDaggerID               = 5110002;
         public const int ornateBoneShieldID             = 2300180;
