@@ -29,6 +29,7 @@
         public const string FinesseTag                  = "Finesse";
         public const string HolyTag                     = "Holy";
         public const string ExpertiseCompatibleTag      = "ExpertiseCompatibleTag";
+        public const string SteelwindEligibleTag        = "SteelwindEligibleTag";
         public const string FlameOfAnorCompatibleTag    = "FlameOfAnorCompatibleTag";
         public const string SoulWithinCompatibleTag     = "SoulWithinCompatibleTag";
         public const string FootworkCompatibleTag       = "FootworkCompatibleTag";
@@ -165,6 +166,7 @@
         public const int fireflyPowderID                = 6000010;
         public const int crystalPowderID                = 6600040;
         public const int brutalClubID                   = 2020020;
+        public const int mysteriousBladeID              = 2000320;
         public const int makeshiftTorchID               = 5100060;
         public const int beardID                        = 3200020;
         public const int purifyingQuartzID              = 6000170;
@@ -425,6 +427,7 @@
         public const int gnarledStaffID                 = 2501067;
         public const int flameOfAnorEnchantID           = 2501068;
         public const int oldDesertTunicID               = 2501069;
+        public const int steelwindEnchantID             = 2501070;
         //SKILLS
 
         //CRUSADER SPELLS
