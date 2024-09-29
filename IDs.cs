@@ -186,6 +186,8 @@
         public const int apolloIncenseID                = 6000180;
         public const int monarchIncenseID               = 6000200;
         public const int sylphinaIncenseID              = 6000250;
+        public const int voltaicVinesID                 = 6000410;
+        public const int flashMossID                    = 6000390;
         public const int silverArmorID                  = 3100100;
         public const int silverBootsID                  = 3100102;
         public const int tatteredAttireID               = 3000130;
@@ -545,6 +547,8 @@
         public const int relicFundamentalsID            = 2502532;
         public const int gildedRelicID                  = 2502533;
         public const int gildedRelicRecipeID            = 2502534;
+
+        public const int brawlerSkillID                 = 2502535;
 
         //CRUSADER SIGILS
         public const int summonedConcecratedGroundID    = summonedWindSigilID;
