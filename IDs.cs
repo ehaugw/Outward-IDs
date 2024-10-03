@@ -107,6 +107,7 @@
         public const int linenClothID                   = 6500090;
         public const int petrifiedWoodID                = 6400080;
         public const int ironScrapsID                   = 6400140;
+        public const int troglodyteStaffID              = 2150040;
         public const int hideID                         = 6600020;
         public const int chargeIncendiaryID             = 6500120;
         public const int lexiconID                      = 5100500;
